@@ -13,6 +13,9 @@ Rules for 5 numbers:
   The numbers can not be the same
 
 Simply just click the button to generate numbers, click again for another set of numbers.
+
+![image](https://user-images.githubusercontent.com/49942725/198291372-54f38863-03fe-44c7-9ce9-93e13d68c926.png)
+
 Play resposibly.
 
 CodePen: https://codepen.io/setter43/pen/VwdYgxm
