@@ -8,10 +8,13 @@ Feel free to use this your self!
 The app is designed around the UK national lottery 5 numbers 1-50 and 2 luck stars 1-12.
 
 Rules for 5 numbers:
+
   Numbers can not be the same
+  
   Numbers can not be in sequence of each other (A range of 1 or -1)
   
  Rules for Lucky Stars
+ 
   The numbers can not be the same
 
 Simply just click the button to generate numbers, click again for another set of numbers.
